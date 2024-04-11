@@ -1,0 +1,6 @@
+✔ 
+TODO -> Adicionar Bcrypt no fluxo de cadastro/login 
+TODO -> Implementar fluxo unicast no chat
+WARNING -> Modificar REGISTER PAGE ROUTE, "NEXTAUTH_URL" e "URL_SITE" p/ ambiente de produção "https://chat-app-nextjs93105.netlify.app"
+WARNING -> Verificar URL de auth.options
+FIXME -> Ao dar LOGOUT o usuário não redirecionado
